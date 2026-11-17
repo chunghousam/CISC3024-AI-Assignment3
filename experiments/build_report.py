@@ -160,8 +160,8 @@ def build():
         size=16, bold=True, align="center", space_after=10, first_line=False,
     )
     for line in (
-        "Name: [Student Name]",
-        "Student ID: [Student ID]",
+        "Name: CHUNG HOU SAM",
+        "Student ID: UC325095",
         "Date: November 2026",
         "Tool: a Cursor coding agent wrote the code, ran the experiments, and drafted this report",
     ):
